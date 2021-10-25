@@ -98,7 +98,7 @@ export default {
                 direccion:'',
             },
             id:0,
-            update:true,//variable para controlar si el  modal es de registro o de creacioni
+            update:true,//variable para controlar si el  modal es de registro o de creacion
             modal:0, //modal = 0 cerrado y modal=1 abierto
             titleModal: '',
             paracaidistas:[],
